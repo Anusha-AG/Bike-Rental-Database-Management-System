@@ -30,7 +30,7 @@ A simple, full-stack web application to rent bikes online.
 ### Payment page
 ![payment](snapshot/payment.PNG "payment page")
 
-### Booking page 
+### Feedback page 
 ![feedback](snapshot/feedback.PNG "Rating page")
 
 
