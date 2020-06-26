@@ -16,7 +16,7 @@ A simple, full-stack web application to rent bikes online.
 ![admin_mangement](snapshot/Admin_management.PNG "Admin")
 
 ### Gear/Without gear selection page
-![selection](Snapshots/selection.png "Selection page")
+![selection](snapshot/selection.png "Selection page")
 
 ### Gear bike selection page
 ![gear](snapshot/gear.PNG "Gear bike selection page")
